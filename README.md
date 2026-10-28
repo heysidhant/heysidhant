@@ -7,6 +7,7 @@ Product Designer & Engineer in Delhi, and Senior Product Designer at BigDot. On 
 - <img src="assets/mightybench.png" width="20" height="20" alt=""> **[MightyBench](https://mightybench.com/?ref=github)**: 49 private tools for video, audio, images, PDFs and on-device AI, in one native Mac app.
 - <img src="assets/findglance.png" width="20" height="20" alt=""> **[FindGlance](https://findglance.com/?ref=github)**: Find files on your Mac by describing them in plain English, including text inside screenshots and PDFs.
 - <img src="assets/agentknocks.svg" width="20" height="20" alt=""> **[AgentKnocks](https://agentknocks.com/?ref=github)**: Menu-bar app that tells you when a Claude Code or Codex session needs you, finishes or fails.
+- <img src="assets/pixtamer.png" width="20" height="20" alt=""> **[Pixtamer](https://github.com/heysidhant/pixtamer)**: Batch-convert, compress and resize images into web-ready JPEG, PNG, WebP and AVIF. Free and open source.
 
 ### Developer tools
 
